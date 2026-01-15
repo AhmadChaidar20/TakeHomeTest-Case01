@@ -1,0 +1,6 @@
+studentId,firstName,lastName,email,gender,mobileNumber,dateOfBirth
+STU01,Will,Ramos,WillR@mail.com,Male,081234567890,31 May 1994
+STU02,Kim,Minji,KimM@mail.com,Female,081298765432,22 Jul 2004
+STU03,George,Clarke,GeorgeC@test.com,Male,ABCDE,04 Oct 1988
+STU04,Choi,Jiwoo,ChoiJ@test.com,Female,081,07 Sep 2006
+STU05,Dave,Mustaine,MustaineGood,Male,081234567890,13 Sep 1961
